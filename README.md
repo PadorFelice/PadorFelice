@@ -4,15 +4,13 @@ Hi there 👋, I'm **AdeleFelice**.
 
 - 🧬 A computer enthusiast exploring the digital world.
 
-<p align="center">
+<p>
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img src="https://github-stats-extended.vercel.app/api?username=PadorFelice" alt="GitHub Stats" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=PadorFelice&layout=donut-vertical&langs_count=4&theme=vue" alt="Top Langs" />
-</p>
+
 
 ---
 
@@ -25,6 +23,9 @@ Hi there 👋, I'm **AdeleFelice**.
 ---
 
 ### 🛠 Languages and Tools I Use
+<p>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=PadorFelice&layout=donut-vertical&langs_count=4&theme=vue" alt="Top Langs" />
+</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="50" alt="IntelliJ" />

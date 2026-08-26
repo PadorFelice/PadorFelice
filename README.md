@@ -16,7 +16,7 @@ Hi there 👋, I'm **AdeleFelice**.
 
 ### 🚀 What I'm working on?
 
-- 🎮 **Minecraft Mod Development**: Currently building an enemy identification highlight mod (Just finished a 5-hour coding sprint!).
+- 🎮 **Minecraft Mod Development**: Currently building an enemy identification highlight mod.
 - 🎬 **FFmpeg & Streaming**: Deep diving into video stream optimization and fixing audio-video sync issues.
 - ⚙️ **Daily Tech**: Java / Python / Reverse Engineering / System Low-level.
 

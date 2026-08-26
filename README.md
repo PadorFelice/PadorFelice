@@ -3,7 +3,9 @@
 Hi there 👋, I'm **AdeleFelice**.
 
 - 🧬 A computer enthusiast exploring the digital world.
+
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=PadorFelice)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=PadorFelice&layout=donut-vertical&langs_count=4&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=PadorFelice&layout=donut-vertical&langs_count=4&theme=vue)
 
 ---
 

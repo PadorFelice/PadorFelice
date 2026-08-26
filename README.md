@@ -1,9 +1,9 @@
 ### Привет! Просто человек, интересующийся компьютерами.
 
-Hi there 👋, I'm **PadorFelice**.
+Hi there 👋, I'm **AdeleFelice**.
 
 - 🧬 A computer enthusiast exploring the digital world.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PadorFelice)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeleFelice)
 
 ---
 

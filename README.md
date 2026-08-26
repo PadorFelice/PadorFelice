@@ -2,15 +2,22 @@
 
 Hi there 👋, I'm **PadorFelice**.
 
-- 🧬 A computer enthusiast exploring the digital world.
 
 ---
 
-### 🚀 What I'm working on?
+### 🛠 What I'm working on?
 
 - 🎮 **Minecraft Mod Development**: Currently building an enemy identification highlight mod (Just finished a 5-hour coding sprint!).
 - 🎬 **FFmpeg & Streaming**: Deep diving into video stream optimization and fixing audio-video sync issues.
 - ⚙️ **Daily Tech**: Java / Python / Reverse Engineering / System Low-level.
+
+---
+
+### 📊 GitHub Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PadorFelice&layout=donut&theme=dark&hide_border=true&hide=html,css,shell" alt="Top Languages" />
+</p>
 
 ---
 
@@ -31,3 +38,8 @@ Hi there 👋, I'm **PadorFelice**.
 
 ---
 
+### 👀 Profile Views
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=PadorFelice&label=Profile%20Views&color=0e75b6&style=flat" alt="PadorFelice" />
+</p>

@@ -10,10 +10,9 @@
 ---
 
 ### 🛠 我正在做什么？
-- 🎮 目前专注于 **Minecraft 模组开发**（刚手搓了一个敌我识别高亮模组，5小时爆肝成果！）
-- 🎬 正在深入钻研 **音视频流媒体技术**（最近刚把 FFmpeg 视频播放的卡顿和音画同步问题给盘明白了）
+- 🎮 目前专注于 **Minecraft 模组开发**
+- 🎬 正在深入钻研 **音视频流媒体技术**
 - ⚙️ 日常折腾：Java / Python / 逆向工程 / 系统底层
-- 📫 欢迎在 Issue 里找我探讨极客话题或游戏模组！
 
 ---
 
@@ -36,7 +35,7 @@
 
 ---
 
-### 🧰 极客装备库 (Tech Stack)
+### 🧰 我的装备库 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />

@@ -22,11 +22,12 @@ Hi there 👋, I'm **AdeleFelice**.
 
 ---
 
-### 🛠 Languages and Tools I Use
+### 🛠 Languages I Use
 <p>
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=PadorFelice&layout=donut-vertical&langs_count=4&theme=vue" alt="Top Langs" />
 </p>
 
+### 🛠 Tools I Use
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="50" alt="IntelliJ" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="50" alt="Git" />

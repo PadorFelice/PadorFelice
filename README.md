@@ -3,7 +3,7 @@
 Hi there 👋, I'm **AdeleFelice**.
 
 - 🧬 A computer enthusiast exploring the digital world.
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=AdeleFelice)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=PadorFelice)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 

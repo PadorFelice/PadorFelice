@@ -3,6 +3,7 @@
 Hi there 👋, I'm **PadorFelice**.
 
 - 🧬 A computer enthusiast exploring the digital world.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PadorFelice)
 
 ---
 
